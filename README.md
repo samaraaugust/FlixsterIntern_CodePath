@@ -42,7 +42,7 @@ If I had more time I would have attempted several of the stretch features, speci
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-During my project demo, I believe that I presented all of my features clearly and answered questions coherently. I notcied that my peer created a navigation bar for the search engine and I found it to be an amazing feature therefore I would want to implement it into my website.
+During my project demo, I believe that I presented all of my features clearly and answered questions coherently. I noticed that my peer created a navigation bar for the search engine and I found it to be an amazing feature therefore I would want to implement it into my website.
 
 ### Open-source libraries used
 
