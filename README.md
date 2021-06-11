@@ -2,7 +2,7 @@
 
 Submitted by: **Samara Augustin**
 
-Estimated time spent: **30** hours spent in total
+Estimated time spent: **40** hours spent in total
 
 ### Application Features
 
