@@ -26,7 +26,7 @@ Estimated time spent: **30** hours spent in total
 ### Walkthrough Video
 
 
-<img src='https://github.com/samaraaugust/FlixsterIntern_CodePath/blob/main/FlixsterInternCodePath.gif' title='Video Walkthrough' width='250'/>
+<img src='https://github.com/samaraaugust/FlixsterIntern_CodePath/blob/main/FlixsterInternCodePath.gif' title='Video Walkthrough' width='500'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
