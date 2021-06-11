@@ -35,11 +35,11 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-The topics that were discussed in the labs prepared me
+The topics that were discussed in the labs prepared me to complete the assignment. In order to complete the assignment, I needed to have knowledge of CSS, HTML, Javascript, and API. Throughout the week, we learned and practiced these topics which allowed me to implement several of the requirements for this assignment.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-If I had more time 
+If I had more time I would have attempted several of the stretch features, specifically allowing for the user to video the movie details and video trailer within the flixster website.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
