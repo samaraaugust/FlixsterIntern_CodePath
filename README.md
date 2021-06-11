@@ -2,9 +2,7 @@
 
 Submitted by: **Samara Augustin**
 
-Estimated time spent: **#** hours spent in total
-
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Estimated time spent: **30** hours spent in total
 
 ### Application Features
 
@@ -43,7 +41,7 @@ If I had more time I would have attempted several of the stretch features, speci
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+During my project demo, I believe that I presented all of my features clearly and answered questions coherently. I notcied that my peer created a navigation bar for the search engine and I found it to be an amazing feature therefore I would want to implement it into my website.
 
 ### Open-source libraries used
 
@@ -51,4 +49,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+I would like to give a shoutout to my instructors/TAs and peers who have assisted me whenever I needed help.
