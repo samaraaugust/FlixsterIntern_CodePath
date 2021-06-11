@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head class="container">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flixster</title>
     <link rel="stylesheet" href="style.css"/>
-    <h1>Flixster</h1>
-   
 </head>
 <body>
     <div id="back"></div>
-    <form>
-        <input type="text" name="movieWord" placeholder="Search For Movies"/>
-        <button>Search</button>
-    </form>
-    <p>Your Favorite Movies</p>
+    <div id="sideBy">
+        <img src="popcorn.png" width="50px" height="50px" alt="Picture of a Bucket of Popcorn">
+        <h1>Flixster</h1>
+        <form>
+            <input type="text" name="movieWord" placeholder="Search For Movies"/>
+            <button>Search</button>
+        </form>
+    </div>
+    <div id="now"></div>
     <div id="movieInfo" class="container"></div>
     <div id="movieInfoSearch" class="container"></div>
     <div id="loadMorebtn"></div>

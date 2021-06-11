@@ -1,18 +1,33 @@
 :root {
-    background: black;
+    background: rgb(69,72,77);
+    background: -moz-linear-gradient(top,  rgb(69,72,77) 0%, rgb(0,0,0) 100%);
+    background: -webkit-linear-gradient(top,  rgb(69,72,77) 0%,rgb(0,0,0) 100%);
+    background: linear-gradient(to bottom,  rgb(69,72,77) 0%,rgb(0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 );
 }
 
 h1 {
     color:white;
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+    margin-right: 0.7em;
+}
+
+h2 {
+    color: white;
     text-align: center;
 }
 
 h4 {
     color:white;
+    overflow: hidden;
+    white-space: initial;
+    text-align: center;
 }
 
 p {
     color:white;
+    white-space: initial;
 }
 
 .container {
@@ -20,16 +35,45 @@ p {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin: auto;
 }
 
+
 .card {
-    padding: 2px 16px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 	transition: 0.3s;
-	border-radius: 5px;
-	background-color: blue;
+    width: 185px;
+    height: auto;
+    border-radius: 10px;
+    border-color: gold;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:10px;
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgb(255, 255, 255);
+    box-shadow: 0 8px 16px 0 rgb(255, 174, 0);
+}
+
+#sideBy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: gold;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#loadM {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+#backB {
+    text-align: right;
 }
